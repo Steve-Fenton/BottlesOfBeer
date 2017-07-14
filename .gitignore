@@ -3,3 +3,6 @@
 ################################################################################
 
 /BottlesOfBeer/.vs/BottlesOfBeer/v14/.suo
+/BottlesOfBeer/bin/Debug
+/BottlesOfBeer/obj/Debug
+/BottlesOfBeer/packages/Shouldly.2.8.3
