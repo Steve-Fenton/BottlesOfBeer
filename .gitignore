@@ -2,7 +2,8 @@
 # This .gitignore file was automatically created by Microsoft(R) Visual Studio.
 ################################################################################
 
-/BottlesOfBeer/.vs/BottlesOfBeer/v14/.suo
-/BottlesOfBeer/bin/Debug
-/BottlesOfBeer/obj/Debug
-/BottlesOfBeer/packages/Shouldly.2.8.3
+/.vs/
+/bin/
+/obj/
+/packages/
+/BottlesOfBeer.csproj.user
