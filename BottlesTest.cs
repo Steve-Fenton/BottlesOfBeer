@@ -94,9 +94,7 @@ namespace BottlesOfBeer
         [TestMethod]
         public void TestTheWholeSong()
         {
-            var a = new Bottles().Verses(99, 0);
-
-            new Bottles().Verses(99, 0).ShouldBe(
+            new Bottles().Song().ShouldBe(
                 "99 bottles of beer on the wall, 99 bottles of beer.\n" +
                 "Take one down and pass it around, 98 bottles of beer on the wall.\n" +
                 "\n" +
