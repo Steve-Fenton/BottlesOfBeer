@@ -74,11 +74,8 @@
     <Content Include="BottlesTest.TestTheFirstVerse.approved.txt" />
     <Content Include="BottlesTest.TestTheWholeSong.approved.txt" />
     <Content Include="BottlesTest.TestVerse0.approved.txt" />
-    <Content Include="BottlesTest.TestVerse0.received.txt" />
     <Content Include="BottlesTest.TestVerse1.approved.txt" />
-    <Content Include="BottlesTest.TestVerse1.received.txt" />
     <Content Include="BottlesTest.TestVerse2.approved.txt" />
-    <Content Include="BottlesTest.TestVerse2.received.txt" />
   </ItemGroup>
   <Choose>
     <When Condition="'$(VisualStudioVersion)' == '10.0' And '$(IsCodedUITest)' == 'True'">
