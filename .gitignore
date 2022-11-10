@@ -7,3 +7,5 @@
 /obj/
 /packages/
 /BottlesOfBeer.csproj.user
+/BottlesOfBeer/bin/
+/BottlesOfBeer/obj/
